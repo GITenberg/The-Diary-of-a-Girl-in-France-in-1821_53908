@@ -1,0 +1,40 @@
+_repo: The-Diary-of-a-Girl-in-France-in-1821_53908
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Browne, Euphemia Stewart
+    gutenberg_agent_id: '47612'
+    url: http://www.gutenberg.org/2009/agents/47612
+creator:
+  author:
+    agent_name: Browne, Mary
+    birthdate: 1807
+    deathdate: 1833
+    gutenberg_agent_id: '47611'
+    url: http://www.gutenberg.org/2009/agents/47611
+  editor:
+    agent_name: Shore, Henry N.
+    aliases:
+    - Shore, H. N.
+    - Teignmouth, Lord
+    - Teignmouth, Henry Noel Shore, Baron
+    birthdate: 1847
+    deathdate: 1926
+    gutenberg_agent_id: '47613'
+    url: http://www.gutenberg.org/2009/agents/47613
+description: Illustrated by the author.
+gutenberg_issued: '2017-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs'
+- !lcc 'DC'
+- !lcsh 'France -- Description and travel'
+- GITenberg
+title: The Diary of a Girl in France in 1821
+url: http://www.gutenberg.org/ebooks/53908
