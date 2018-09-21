@@ -1,10 +1,13 @@
 _repo: The-Diary-of-a-Girl-in-France-in-1821_53908
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Browne, Euphemia Stewart
     gutenberg_agent_id: '47612'
     url: http://www.gutenberg.org/2009/agents/47612
+covers:
+- cover_type: archival
+  image_path: 53908-h/images/cover.jpg
 creator:
   author:
     agent_name: Browne, Mary
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '47613'
     url: http://www.gutenberg.org/2009/agents/47613
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53908#The-Diary-of-a-Girl-in-France-in-1821
 gutenberg_issued: '2017-01-06'
 gutenberg_type: Text
 identifiers:
